@@ -1,5 +1,5 @@
 # Olá! Bem-vindo ao meu GitHub
-Me chamo Rodrigo Quaresma, tenho 23 anos, sou Paraibano, mas atualmente moro no Paraná. Sou graduando em Sistemas para Internet e trabalho como Analista de Suporte e Infraestrutura. Atualmente, foco meus estudos em programação com C# e Computação em Nuvem, com o objetivo de me tornar um profissional DevOps.
+Me chamo Rodrigo Quaresma, sou graduando em Sistemas para Internet e trabalho como Analista de Suporte e Infraestrutura. Atualmente, foco meus estudos em programação com C# e Computação em Nuvem, com o objetivo de me tornar um profissional DevOps.
 
 
 ## Tecnologias e Ferramentas
