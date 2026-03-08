@@ -1,5 +1,13 @@
 # Olá! Bem-vindo ao meu GitHub
-Me chamo Rodrigo Quaresma, sou graduando em Sistemas para Internet e trabalho como Analista de Suporte e Infraestrutura. Atualmente, foco meus estudos em programação com C# e Computação em Nuvem, com o objetivo de me tornar um profissional DevOps.
+Sou Analista de Sistemas com foco em Cloud, DevOps e confiabilidade de sistemas, atuando na sustentação e evolução de aplicações críticas em ambientes distribuídos.
+
+Atualmente trabalho com microsserviços em Kubernetes, monitoramento e troubleshooting de sistemas financeiros, além de automação de processos com Python e n8n para aumentar eficiência operacional e reduzir tarefas manuais.
+
+Tenho experiência com AWS, Azure, Docker, CI/CD e observabilidade (Grafana e Datadog), atuando próximo aos times de desenvolvimento, infraestrutura e banco de dados para melhorar performance, estabilidade e escalabilidade de aplicações.
+
+Minha trajetória combina infraestrutura, desenvolvimento e cultura DevOps, com conhecimentos em C#, .NET, APIs e automação de pipelines, o que me permite atuar na interseção entre plataforma, confiabilidade e engenharia de software.
+
+Estou constantemente evoluindo em DevOps, Kubernetes, automação e FinOps, com o objetivo de contribuir para ambientes mais resilientes, escaláveis e eficientes em cloud.
 
 
 ## Tecnologias e Ferramentas
