@@ -25,13 +25,9 @@ Estou constantemente evoluindo em DevOps, Kubernetes, automação e FinOps, com 
 </div>
 
 
-## Estatísticas do GitHub
+## 📊 Linguagens mais usadas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rdgq1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Linguagens Mais Usadas
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rdgq1&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdgq1&layout=compact)
 
 
 ## Redes Sociais
