@@ -27,7 +27,7 @@ Estou constantemente evoluindo em DevOps, Kubernetes, automação e FinOps, com 
 
 ## 📊 Linguagens mais usadas
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdgq1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdgq1)
 
 
 ## Redes Sociais
